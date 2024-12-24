@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "643958119913",
+    "project_id": "manto-bride-f0f84",
+    "storage_bucket": "manto-bride-f0f84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643958119913:android:ebf3d36c5ac6f68e8c7f78",
+        "android_client_info": {
+          "package_name": "com.example.manto_bride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643958119913-i4nehnk787qh65m6jgmdggjs8p51luvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manto_bride",
+            "certificate_hash": "c742383a77afec28a890df97abe640043c5b88a3"
+          }
+        },
+        {
+          "client_id": "643958119913-mcpkdbllra52pd9mcrj1o7vrs6vcbl7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrQ8hakXQTCBQ3NO3L8e3Xym7gNQc1b5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643958119913-mcpkdbllra52pd9mcrj1o7vrs6vcbl7t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "643958119913-a6v8eko764mbgvcp8kheg3vg7pj8o1ra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mantoBride"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

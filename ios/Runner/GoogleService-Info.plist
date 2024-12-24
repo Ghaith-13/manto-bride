@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>643958119913-a6v8eko764mbgvcp8kheg3vg7pj8o1ra.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.643958119913-a6v8eko764mbgvcp8kheg3vg7pj8o1ra</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>643958119913-i4nehnk787qh65m6jgmdggjs8p51luvb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDNySACXvbUQWsst_-4LuKC7xEVsWrrmE0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>643958119913</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mantoBride</string>
+	<key>PROJECT_ID</key>
+	<string>manto-bride-f0f84</string>
+	<key>STORAGE_BUCKET</key>
+	<string>manto-bride-f0f84.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:643958119913:ios:7843c42d416bce9b8c7f78</string>
+</dict>
+</plist>
